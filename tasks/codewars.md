@@ -1,14 +1,14 @@
 # Codewars Stage2:
 
- === (8 kyu) http://www.codewars.com/kata/opposite-number
- === (8 kyu) http://www.codewars.com/kata/basic-mathematical-operations
- === (8 kyu) http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
- === (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
- === (7 kyu) http://www.codewars.com/kata/get-the-middle-character 
+   1.  === (8 kyu) http://www.codewars.com/kata/opposite-number
+   2.  === (8 kyu) http://www.codewars.com/kata/basic-mathematical-operations
+   3.  === (8 kyu) http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
+   4.  === (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
+   5.  === (7 kyu) http://www.codewars.com/kata/get-the-middle-character 
    6. (5 kyu) http://www.codewars.com/kata/partition-on
    7. (8 kyu) http://www.codewars.com/kata/word-count
    8. (8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two
- === (8 kyu) http://www.codewars.com/kata/implement-array-dot-prototype-dot-filter-1
+   10.  === (8 kyu) http://www.codewars.com/kata/implement-array-dot-prototype-dot-filter-1
    10. (6 kyu) http://www.codewars.com/kata/prefill-an-array
    11. (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
    12. (7 kyu) http://www.codewars.com/kata/sequence-generator-1
